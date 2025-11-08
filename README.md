@@ -5,12 +5,12 @@ I use GitHub to mess around with small projects I work on in the background, and
 
 ---
 
-### 🚆 TravNL (Project Groene Koek)
+### TravNL (Project Groene Koek)
 It’s a Dutch travel planner kinda like the NS or 9292 app, but built by me and it's community  
 It uses the **NS API** for departure times and planning trips, aimed towards travelers and rail hobbyists and want more than just a simple travel planner
 ---
 
-### 💻 Stuff I Use
+### Stuff I Use
 - TypeScript / JavaScript / HTML / CSS  
 - React
 - Linux Fedora (Bazzite) as my main OS  
@@ -18,7 +18,7 @@ It uses the **NS API** for departure times and planning trips, aimed towards tra
 
 ---
 
-### 🧠 A bit about me
+### A bit about me
 - Full-time student, aiming to become a train driver 
 - I travel a lot by train (of course)  
 - Usually got some **vinyl** spinning in the background when I’m programming or gaming
