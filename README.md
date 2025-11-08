@@ -24,7 +24,7 @@ It uses the **NS API** for departure times and planning trips, aimed towards tra
 - Full-time student, aiming to become a train driver 
 - I travel a lot by train (of course)  
 - Usually got some **vinyl** spinning in the background when I’m programming or gaming
-- Been using **Linux** since 2024 and don't regret a single thing about it
+- Been using **Linux** since 2023 and don't regret a single thing about it
 
 ---
 
