@@ -28,4 +28,4 @@ It uses the **NS API** for departure times and planning trips, aimed towards tra
 
 ---
 
-That’s about it — just me doing random projects for fun and learning along the way
+That’s about it, just doing random projects for fun and learning along the way
